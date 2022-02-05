@@ -1,6 +1,8 @@
+# Urban-Octo-Telegram-Main
+
 <link rel=style.css>
 <h1>Hi 👋, I'm david manzavrakos</h1>
-<h3>a student developing his first webpage</h3>
+<h3>A student developing his first webpage</h3>
 
 - 🔭 I’m currently working on [Horiseon](https://davidmanzavrakos.github.io/Urban-Octo/)
 
@@ -9,5 +11,6 @@
 - 📫 How to reach me **david.manzavrakos@gmail.com**
 
 <h3>Connect with me:</h3>
-<p>
-</p>
+<address> 
+    <a href="mailto:david.manzavrakos@gmail.com">David Manzavrakos</a>
+</address>
