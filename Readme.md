@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Horiseon](https://davidmanzavrakos.github.io/Urban-Octo/)
 
-![alt text](/Users/z076218/Desktop/projects/urban-octo-telegram-main/assets/images/Horiseon.png)
+!(.urban-octo-telegram-main/assets/images/Horiseon.png?raw=true "title")
 
 <!-- Description -->
 
@@ -14,7 +14,4 @@
 
 - 📫 How to reach me **david.manzavrakos@gmail.com**
 
-<h3>Connect with me:</h3>
-<address> 
-    <a href="mailto:david.manzavrakos@gmail.com">David Manzavrakos</a>
-</address>
+
