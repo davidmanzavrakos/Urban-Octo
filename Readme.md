@@ -5,11 +5,11 @@
 <h3>A student developing his first webpage</h3>
 
 - 🔭 I’m currently working on [Horiseon](https://davidmanzavrakos.github.io/Urban-Octo/);
-Description: A website focused on search engine optimization, online reputation management, and social media marketing. 
+- Description: A website focused on search engine optimization, online reputation management, and social media marketing. 
 
-We bring value to your business through lead generation, brand awareness, ad cost management. 
+- We bring value to your business through lead generation, brand awareness, ad cost management. 
 
-Deppolyment notes: updated html, css style and image connections to make sure everything was working as intended and optimized. 
+- Depolyment notes: updated html, css style and image connections to make sure everything was working as intended and optimized. 
 
 <img alt= "stuff" src="https://github.com/davidmanzavrakos/Urban-Octo/blob/main/assets/images/Horiseon.png">
 
