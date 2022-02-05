@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on [Horiseon](https://davidmanzavrakos.github.io/Urban-Octo/)
 
-!(.urban-octo-telegram-main/assets/images/Horiseon.png?raw=true "title")
-
-<!-- Description -->
+<img alt= "stuff" src="/Users/z076218/Desktop/projects/urban-octo-telegram-main/assets/images/Horiseon.png">
 
 - 👨‍💻 All of my projects are available at [https://github.com/davidmanzavrakos?tab=repositories](https://github.com/davidmanzavrakos?tab=repositories)
 
