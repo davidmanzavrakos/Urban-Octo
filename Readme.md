@@ -11,7 +11,7 @@
 
 - Depolyment notes: updated html, css style and image connections to make sure everything was working as intended and optimized. 
 
-<img alt= "stuff" src="https://github.com/davidmanzavrakos/Urban-Octo/blob/main/assets/images/Horiseon.png">
+<img alt= "stuff" src="https://github.com/davidmanzavrakos/Urban-Octo/blob/main/assets/images/Horiseon-Full-Page.png">
 
 - 👨‍💻 All of my projects are available at [https://github.com/davidmanzavrakos?tab=repositories](https://github.com/davidmanzavrakos?tab=repositories)
 
